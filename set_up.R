@@ -9,4 +9,4 @@ install("texttricks")
 
 
 library("texttricks")
-extract_pdf("BDA2009_10.pdf")
+
