@@ -1,3 +1,5 @@
+[![CRAN status](https://www.r-pkg.org/badges/version/texttricks)](https://cran.r-project.org/package=texttricks)
+
 # texttricks
 Files for the texttricks package
 
