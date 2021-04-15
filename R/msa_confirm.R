@@ -1,6 +1,6 @@
 #' An MSA Confirm Function
 #'
-#' This function allows you to convert a .pdf file to a .txt file
+#' This function allows you to run a confirmatory MSA
 #' @param data .csv file with variables in columns and observations in rows
 #' @param scale a character vector specifying the variables that should be included
 #' @keywords msa

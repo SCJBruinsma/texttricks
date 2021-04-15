@@ -12,7 +12,7 @@ msa_confirm(data, scale)
 \item{scale}{a character vector specifying the variables that should be included}
 }
 \description{
-This function allows you to convert a .pdf file to a .txt file
+This function allows you to run a confirmatory MSA
 }
 \examples{
 msa_confirm()
