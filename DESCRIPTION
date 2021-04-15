@@ -1,0 +1,16 @@
+Package: texttricks
+Title: Additional Tools for Text Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Bastiaan",
+           family = "Bruinsma",
+           role = c("aut", "cre"),
+           email = "bruinsma@soz.uni-frankfurt.de",
+           comment = c(ORCID = "0000-0002-2556-4940"))
+Description: Package created for easier use of text analysis in R, especially getting the texts into R.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9001
